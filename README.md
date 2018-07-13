@@ -1,6 +1,12 @@
 # jeudi_12_devoir
-Travail de Ahmed et Romain
+Travail de Ahmed et Romain, groupe de Marseille.
+Il contient les exercices suivants:
 
+Route de la Mairie
+Trader de l'obscur
+Route des Deputes
+
+Ici la liste de GEMS sur nos appareils
 *** LOCAL GEMS ***
 
 addressable (2.5.2)
